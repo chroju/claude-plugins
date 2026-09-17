@@ -1,0 +1,12 @@
+{
+  "name": "hrns",
+  "description": "Workflow harnesses that drive a task through explicit phases, keeping the main context as an orchestrator and delegating reading, implementing, and reviewing to subagents.",
+  "version": "0.1.0",
+  "author": {
+    "name": "chroju",
+    "email": "jukebox14@gmail.com"
+  },
+  "repository": "https://github.com/chroju/claude-plugins",
+  "license": "MIT",
+  "keywords": ["workflow", "harness", "development", "requirements", "design"]
+}
