@@ -1,0 +1,17 @@
+{
+  "name": "chroju",
+  "description": "Personal Claude Code plugins.",
+  "owner": {
+    "name": "chroju",
+    "email": "jukebox14@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "hrns",
+      "source": "./plugins/hrns",
+      "description": "Workflow harnesses that drive a task through explicit phases with subagents.",
+      "license": "MIT",
+      "keywords": ["workflow", "harness", "development"]
+    }
+  ]
+}
